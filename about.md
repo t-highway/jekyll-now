@@ -9,6 +9,4 @@ Graduation semester at the Eindhoven University of Technology.
 Participant at the Biohack Academy at the Waag Society.
 
 
-### Contact me
-
-[t.hoogeweegen@student.tue.nl](mailto:t.hoogeweegen@student.tue.nl)
+__ [t.hoogeweegen@student.tue.nl](mailto:t.hoogeweegen@student.tue.nl)
