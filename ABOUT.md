@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /ABOUT/
+permalink: /about/
 ---
 
 Tamara Hoogeweegen.
