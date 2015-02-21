@@ -4,9 +4,9 @@ title: ABOUT
 permalink: /about/
 ---
 
-Tamara Hoogeweegen.
-Graduation semester at the Eindhoven University of Technology.
-Participant at the Biohack Academy at the Waag Society.
+Tamara Hoogeweegen.<br>
+Graduation semester at the Eindhoven University of Technology.<br>
+Participant at the Biohack Academy at the Waag Society.<br>
 
 
 __ [t.hoogeweegen@student.tue.nl](mailto:t.hoogeweegen@student.tue.nl)
