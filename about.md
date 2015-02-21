@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Tamara Hoogeweegen.
+Graduation semester at the Eindhoven University of Technology.
+Participant at the Biohack Academy at the Waag Society.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[t.hoogeweegen@student.tue.nl](mailto:t.hoogeweegen@student.tue.nl)
