@@ -1,0 +1,10 @@
+---
+layout: post
+title: _INCUBATOR - almost there
+---
+
+I'm almost done with my incubator and microscope. I ran into a problem with my digital temperature sensor. Everything was working fine on my breadboard but apparently I messed something up when transferring to my circuitboard. All of a sudden I noticed that the measured temperature kept on increasing, then I touched it and it was super hot, the sensor read more than 100C!
+I now ordered a thermistor, I hope that by replacing that everything will work again and I can start growing my cultures.
+
+
+http://tamarahoogeweegen.com/INCUBATOR_3.jpg
